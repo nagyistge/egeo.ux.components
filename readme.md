@@ -1,15 +1,15 @@
-# Egeo UX Guidelines
+# Egeo UX Components
 
-Hi! This is the repository of the Egeo UX Guidelines website which contains the Stratio principles and best practices which guides the current generation of Stratio Apps. This project uses other Git projects which are interconnected via npm git dependencies.
+Hi! This is the repository of the Egeo UX Components website which contains the definition of components UX created used the principles and best practices defined in the [Egeo UX Guidelines](https://github.com/Stratio/egeo.ux.guidelines). This project uses other Git projects which are interconnected via npm git dependencies.
 
-The Egeo UX Guidelines is built using [KSS](http://warpspire.com/kss/). Take it a look first if you want to modify it.
+The Egeo UX Components is built using [KSS](http://warpspire.com/kss/). Take it a look first if you want to modify it.
 
 ## How to install
 
 Download the project to any folder via `git clone` or using the ZIP button and launch `npm install` to install all dependencies needed to build the website ([NodeJS](https://nodejs.org) and [Git client](https://git-scm.com/download/) are required to be installed first to can use these commands on your console).
 
 ```
-git clone https://github.com/Stratio/egeo.ux.guidelines.git
+git clone https://github.com/Stratio/egeo.ux.components.git
 
 npm install
 ```
